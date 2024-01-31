@@ -1,5 +1,9 @@
 # SALES-ANALYSIS-USING-EXCEL
 
+
+<img src="PROJECT.jpg"/>
+
+
 This project demonstrates proficiency in Microsoft Excel, encompassing various features and techniques for data analysis, visualization, and dashboard creation, essential for informed decision-making and business strategy formulation.
 
 Implemented advanced data manipulation and visualization techniques using Microsoft Excel to extract actionable insights from complex datasets. Key contributions include:
